@@ -1,0 +1,9 @@
+[safe]
+	directory = D:/WebBanLinhKien
+[user]
+	name = cuong
+	email = cuongnguyenc.n1612@gmail.com
+[core]
+	editor = 'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin
+[commit]
+	template = C:/Users/cuong/.gitmessage
